@@ -1,6 +1,6 @@
 {
   "name": "shula-final",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template for publishing a React + TypeScript package to npm",
   "author": "shulamitco",
   "license": "Apache-2.0",
