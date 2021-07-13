@@ -1,4 +1,4 @@
-# npm-react-typescript-template
+# shula-template
 
 A template for publishing a React + TypeScript package to npm
 
